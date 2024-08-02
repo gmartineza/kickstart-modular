@@ -1,3 +1,3 @@
-return { 
-  "calind/selenized.nvim" 
+return {
+  'calind/selenized.nvim',
 }
